@@ -1,0 +1,1 @@
+{"rustc":15221299189286757714,"features":"[]","target":2517875591538944842,"profile":13719610756125836611,"path":18305767543141288633,"deps":[[2915619472735675996,"libc",false,1359733691503768484]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/malloc_buf-d564934770e3ce95/dep-lib-malloc_buf"}}],"rustflags":[],"metadata":1657999421880634387,"config":0,"compile_kind":0}
